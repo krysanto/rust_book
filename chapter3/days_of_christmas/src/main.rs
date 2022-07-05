@@ -14,14 +14,14 @@ fn main() {
         "Twelve drummers drumming"
     ];
 
-    for (i, element) in verses.iter().enumerate() {
-        println!("On the {} day of Christmas, my true love sent to me", i + 1);
+    for i in verses.iter().enumerate() {
+        println!("On the {} day of Christmas, my true love sent to me", i.0 + 1);
         
         for (k, element) in verses.iter().enumerate().rev() {
-            if k > i{
+            if k > i.0{
                 continue;
             }
-            if (k == 1){
+            if k == 1{
                 println!("{}, and", element);
             }else{
                 println!("{}", element);
