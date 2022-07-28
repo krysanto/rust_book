@@ -27,7 +27,6 @@ fn main() -> ! {
                     0 => {
                         if word.eq("List"){
                             list_departments(&map);
-                            println!("Test");
                             continue
                         }
                     }
@@ -35,7 +34,6 @@ fn main() -> ! {
                         name = word;
                     }
                     _ => {
-                        println!("Nothing happens.");
                     }
                 }
                 counter += 1;
