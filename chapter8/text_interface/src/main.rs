@@ -20,7 +20,6 @@ fn main() -> ! {
         for letter in user_input.chars(){
             if letter == ' '{
                 word = user_input[word_idx_start..word_idx_end].to_string();
-                println!("{}",word);
                 word_idx_end += 1;
                 word_idx_start = word_idx_end;
                 match counter {
@@ -41,7 +40,7 @@ fn main() -> ! {
                 word_idx_end += 1;
             }
         }
-        if (name.is_empty()){
+        if name.is_empty(){
             continue;
         }
         department = user_input[word_idx_start..word_idx_end-1].to_string();
