@@ -1,0 +1,12 @@
+/home/krysanto/rust_book/chapter14/add/target/debug/deps/rand_core-cef0da55a4eadcb5.rmeta: /home/krysanto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/lib.rs /home/krysanto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/block.rs /home/krysanto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/error.rs /home/krysanto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/impls.rs /home/krysanto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/le.rs /home/krysanto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/os.rs
+
+/home/krysanto/rust_book/chapter14/add/target/debug/deps/librand_core-cef0da55a4eadcb5.rlib: /home/krysanto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/lib.rs /home/krysanto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/block.rs /home/krysanto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/error.rs /home/krysanto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/impls.rs /home/krysanto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/le.rs /home/krysanto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/os.rs
+
+/home/krysanto/rust_book/chapter14/add/target/debug/deps/rand_core-cef0da55a4eadcb5.d: /home/krysanto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/lib.rs /home/krysanto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/block.rs /home/krysanto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/error.rs /home/krysanto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/impls.rs /home/krysanto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/le.rs /home/krysanto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/os.rs
+
+/home/krysanto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/lib.rs:
+/home/krysanto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/block.rs:
+/home/krysanto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/error.rs:
+/home/krysanto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/impls.rs:
+/home/krysanto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/le.rs:
+/home/krysanto/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/os.rs:
